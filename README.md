@@ -1,19 +1,13 @@
 ### Hi there 👋
 
-<!--<picture>
- <source media="(prefers-color-scheme: dark)" srcset="![01](https://github.com/s3rasool/s3rasool/assets/32956149/f54220d9-0146-4543-b0d7-f70dd1de2bdb)
-">
- <source media="(prefers-color-scheme: light)" srcset="  ![01](https://github.com/s3rasool/s3rasool/assets/32956149/d3f863cf-fbf1-455e-8045-6148793a796f)
- ">
- <img alt="YOUR-ALT-TEXT" src="  ![01](https://github.com/s3rasool/s3rasool/assets/32956149/73b26563-5435-421a-a093-de292d8ab0bf)
-">
-</picture>
 
 **s3rasool/s3rasool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on My Personal Project
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
