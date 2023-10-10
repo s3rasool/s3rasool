@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: s3rasool@gmail.com
 ![Python Proficiency](https://img.shields.io/badge/Python-Intermediate-blue)
 ![Python Logo](https://i.imgur.com/your-image-url.png)
-
+![Python Logo](IMAGE_URL)
