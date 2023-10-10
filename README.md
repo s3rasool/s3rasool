@@ -11,6 +11,3 @@ Here are some ideas to get you started:
 💬 Ask me about my passion for lifelong learning and my love for solving complex problems.
 
 - 📫 How to reach me: s3rasool@gmail.com
-![Python Proficiency](https://img.shields.io/badge/Python-Intermediate-blue)
-![Python Logo](https://i.imgur.com/your-image-url.png)
-![Python Logo](images.jpeg)
