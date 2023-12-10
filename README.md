@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rasool&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rasool&show_icons=true&theme=radical)
