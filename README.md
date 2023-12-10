@@ -1,4 +1,4 @@
-#### Hi , I'm delighted to have you here! 😄👋
+#### Hi , I'm delighted to have you here!
 
 Here are some ideas to get you started:
 
