@@ -1,8 +1,8 @@
-### Hi , I'm delighted to have you here! 😄👋
+#### Hi , I'm delighted to have you here! 😄👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My Personal Project
+🔭 I’m currently working on My Personal Project
 
 🌱 I’m currently learning about machine learning and artificial intelligence, and I'm actively working on improving my skills in this field.
 
