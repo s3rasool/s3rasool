@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 💬 Ask me about my passion for lifelong learning and my love for solving complex problems.
 
 - 📫 How to reach me: s3rasool@gmail.com
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rasool)](https://github.com/anuraghazra/github-readme-stats)
