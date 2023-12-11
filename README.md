@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 📫 How to reach me: s3rasool@gmail.com
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?s3rasool=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?s3rasool=anuraghazra&show_icons=true&theme=transparent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s3rasool=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rasool_icons=true&theme=transparent)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
