@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3rasool&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +23,6 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/rasool_s3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rasool_s3" height="30" width="40" /></a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3rasool&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rasool&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rasool&show_icons=true&theme=radical)                
