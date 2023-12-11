@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?s3rasool=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?s3rasool=anuraghazra&show_icons=true&theme=transparent)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
