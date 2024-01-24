@@ -27,10 +27,4 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/s3rasool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s3rasool" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rasool_s3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rasool_s3" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@s3rasool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@s3rasool" height="30" width="40" /></a>
-</p>
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3rasool&layout=compact)
-              
+</p>              
