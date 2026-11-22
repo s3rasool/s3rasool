@@ -1,14 +1,14 @@
-#### Hi , I'm delighted to have you here!
+#### Hi, I'm delighted to have you here! 👋
 
-Here are some ideas to get you started:
+I'm passionate about Data Science, Machine Learning, Deep Learning, and Artificial Intelligence. I enjoy exploring data, building intelligent models, and developing AI-powered solutions to solve real-world problems.
 
-🔭 I’m currently working on My Personal Project
+🌱 **Currently learning:** Deep Learning, Large Language Models (LLMs), Agentic AI, and AI Agents.
 
-🌱 I’m currently learning about machine learning and artificial intelligence, and I'm actively working on improving my skills in this field.
+👯 **Looking to collaborate on:** Kaggle competitions and open-source projects related to Data Science, Machine Learning, and AI.
 
-👯 I’m looking to collaborate on Kaggle competitions with a dedicated team of data enthusiasts who share my passion for tackling real-world data challenges and improving our data science skills.
+💬 **Ask me about:** Python, Data Analysis, Machine Learning, Deep Learning, LLMs, and Agentic AI.
 
-💬 Ask me about my passion for lifelong learning and my love for solving complex problems.
+🚀 **My goal:** Continuously learning, building intelligent applications, and turning ideas into practical AI solutions.
 
 ### 🛠 Skills
 
